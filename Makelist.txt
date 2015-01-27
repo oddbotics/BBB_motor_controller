@@ -1,0 +1,5 @@
+CXX = 
+LIBS
+PATHS
+OBJS
+
